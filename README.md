@@ -1,4 +1,4 @@
-# **Activitat: Iniciació a Git, GitHub i Markdown amb Visual Studio Code**
+# **Activitat: Segon repositori amb Visual Studio Code**
 
 ## **Objectiu**
 
