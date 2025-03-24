@@ -109,10 +109,10 @@ Un **repositori** és com una carpeta especial on guardem el nostre codi i l’h
 
 ### **Instruccions**
 1. Anar a **GitHub** i iniciar sessió.
-2. Crear un **New Repository** amb nom **`primer-repositori`**.
+2. Crear un **New Repository** amb nom **`segon-repositori`**.
 3. **NO marcar** "Add a README file".
 4. Clicar **Create repository**.
-5. Copiar l’enllaç que proporciona GitHub (**`https://github.com/el-teu-usuari/primer-repositori.git`**).
+5. Copiar l’enllaç que proporciona GitHub (**`https://github.com/el-teu-usuari/segon-repositori.git`**).
 6. **Obrir el terminal de Git Bash** dins de VS Code.
 7. Escriure la següent comanda per anar a `C:`:
    ```bash
@@ -120,11 +120,11 @@ Un **repositori** és com una carpeta especial on guardem el nostre codi i l’h
    ```
 8. clonar el repositori:
    ```bash
-   git clone https://github.com/el-teu-usuari/primer-repositori.git
+   git clone https://github.com/el-teu-usuari/segon-repositori.git
    ```
 9. Entrar a la carpeta creada:
    ```bash
-   cd primer-repositori
+   cd segon-repositori
    ```
 ---
 
